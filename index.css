@@ -1,0 +1,59 @@
+.nav-pills{
+  
+  font-size:20px;
+  background-color:black;
+  margin-bottom:10%;
+  
+}
+
+.block{
+  background-color:black;
+  opacity:0.8;
+  padding:10px;
+  width:50%;
+  margin-right:auto;
+  margin-left:auto;
+  border-radius:10px;
+  margin-top:-100px;
+  margin-bottom:auto;
+}
+
+body{background-color:black;
+  font-family:Lobster;
+  color:white;
+}
+
+.btn-default{
+  background-color:black;
+  border-color:black;
+  color:#337ab7;
+  font-size:1.7em
+    
+}
+h1{padding:0;
+margin-top:px;
+font-size:4.0em;}
+.pageOne{
+  background:url("https://67.media.tumblr.com/8a04b54ad7505b5dce523ce20f95a219/tumblr_oaivyevAeH1shou8fo1_500.jpg");
+  background-size:cover;
+  height:800px;
+  margin-top: -2%;
+}
+
+.pageTwo{
+  background:url("https://67.media.tumblr.com/467153cc6b69096326c27948ec9bd68a/tumblr_ocbzypmL1y1v9lworo1_500.jpg");
+  background-size:cover;
+  height:700px;
+  margin-top: -2%;
+  padding-top:5%
+}
+p{font-size:2.2em;}
+.me{height:400px;
+}
+
+.pageThree{
+  background:url("https://65.media.tumblr.com/a1e505adae3179293cc5e84abddfe82b/tumblr_obvjkp7PxP1t54fqfo1_1280.jpg");
+  background-size:cover;
+  height:800px;
+  margin-top: -2%;
+}
